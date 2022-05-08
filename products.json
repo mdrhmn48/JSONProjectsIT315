@@ -1,17 +1,21 @@
 {
-  "Products": [
-    {  "productName": "Water bottle",
-      "productDescription": "Great Bottle to take along a run",
-      "productPrice": "$10",
-      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
-    {  "productName": "Running Glasses",
-      "productDescription": "Great to take along a run",
-      "productPrice": "$50",
-      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
-    {  "productName": "Running shorts",
-      "productDescription": "Good Comfort while running",
-      "productPrice": "$15",
-      "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"} 
+  "JSONActivity": [
+    {  "activtyName": "Running",
+      "activityWebSite": "Great Bottle to take along a run",
+      "activityURL": "",
+      "activityImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
+    {  "activtyName": "Hiking",
+      "activityWebSite": "Great to take along a run",
+      "activityURL": "Biking",
+      "activityImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"}, 
+    {  "activtyName": "Hiking",
+      "activityWebSite": "Good Comfort while running",
+      "activityURL": "$15",
+      "activityImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"} 
+    {  "activtyNamee": "Gym",
+      "activityWebSite": "Good Comfort while running",
+      "activityImage": "$15",
+      "activityURL":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg"} 
   ],
   "Status": "Ok"
 }
